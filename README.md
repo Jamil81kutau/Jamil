@@ -393,3 +393,390 @@ http://wowza60.indostreamserver.com:1935/muadztv/live/playlist.m3u8
 https://liveanevia.mncnow.id/live/eds/ChannelV/sa_dash_vmx/ChannelV.mpd
 #EXTINF:0 group-title="Music" tvg-logo="http://dusktill.masuk.web.id/img/musictv.png" ,Music Channel
 https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
+
+#EXTINF:-1,RTK1HD
+http://172.17.17.15:24621/live/sabaheta/sabaheta/4.ts
+#EXTINF:-1,RTK 2
+http://172.17.17.15:24621/live/sabaheta/sabaheta/7.ts
+#EXTINF:-1,RTS 1 HD
+http://172.17.17.15:24621/live/sabaheta/sabaheta/5.ts
+#EXTINF:-1,RTS 1
+http://172.17.17.15:24621/live/sabaheta/sabaheta/155.ts
+#EXTINF:-1,RTS 2
+http://172.17.17.15:24621/live/sabaheta/sabaheta/8.ts
+#EXTINF:-1,RTS 3
+http://172.17.17.15:24621/live/sabaheta/sabaheta/9.ts
+#EXTINF:-1,PRVA TV
+http://172.17.17.15:24621/live/sabaheta/sabaheta/6.ts
+#EXTINF:-1,PRVA HD
+http://172.17.17.15:24621/live/sabaheta/sabaheta/108.ts
+#EXTINF:-1,b92
+http://172.17.17.15:24621/live/sabaheta/sabaheta/109.ts
+#EXTINF:-1,O2.TV HD
+http://172.17.17.15:24621/live/sabaheta/sabaheta/11.ts
+#EXTINF:-1,PINK
+http://172.17.17.15:24621/live/sabaheta/sabaheta/10.ts
+#EXTINF:-1,PINK HD
+http://172.17.17.15:24621/live/sabaheta/sabaheta/107.ts
+#EXTINF:-1,RTV 1
+http://172.17.17.15:24621/live/sabaheta/sabaheta/14.ts
+#EXTINF:-1,OBN
+http://172.17.17.15:24621/live/sabaheta/sabaheta/12.ts
+#EXTINF:-1,HEPPY
+http://172.17.17.15:24621/live/sabaheta/sabaheta/13.ts
+#EXTINF:-1,Nova S
+http://172.17.17.15:24621/live/sabaheta/sabaheta/97.ts
+#EXTINF:-1,N 1
+http://172.17.17.15:24621/live/sabaheta/sabaheta/91.ts
+#EXTINF:-1,Al Jazeera
+http://172.17.17.15:24621/live/sabaheta/sabaheta/16.ts
+#EXTINF:-1,HAYAT
+http://172.17.17.15:24621/live/sabaheta/sabaheta/17.ts
+#EXTINF:-1,RTV SAT
+http://172.17.17.15:24621/live/sabaheta/sabaheta/18.ts
+#EXTINF:-1,NOVA BH
+http://172.17.17.15:24621/live/sabaheta/sabaheta/90.ts
+#EXTINF:-1,RTL
+http://172.17.17.15:24621/live/sabaheta/sabaheta/25.ts
+#EXTINF:-1,RTL 2
+http://172.17.17.15:24621/live/sabaheta/sabaheta/26.ts
+#EXTINF:-1,NOVA TV
+http://172.17.17.15:24621/live/sabaheta/sabaheta/23.ts
+#EXTINF:-1,DOMA TV
+http://172.17.17.15:24621/live/sabaheta/sabaheta/24.ts
+#EXTINF:-1,HRT 1
+http://172.17.17.15:24621/live/sabaheta/sabaheta/21.ts
+#EXTINF:-1,HRT 2
+http://172.17.17.15:24621/live/sabaheta/sabaheta/106.ts
+#EXTINF:-1,HRT 3
+http://172.17.17.15:24621/live/sabaheta/sabaheta/22.ts
+#EXTINF:-1,HRT 4
+http://172.17.17.15:24621/live/sabaheta/sabaheta/152.ts
+#EXTINF:-1,N1 HR
+http://172.17.17.15:24621/live/sabaheta/sabaheta/191.ts
+#EXTINF:-1,SITEL
+http://172.17.17.15:24621/live/sabaheta/sabaheta/99.ts
+#EXTINF:-1,KANAL 5
+http://172.17.17.15:24621/live/sabaheta/sabaheta/177.ts
+#EXTINF:-1,MKTV
+http://172.17.17.15:24621/live/sabaheta/sabaheta/19.ts
+#EXTINF:-1,Prvo Word
+http://172.17.17.15:24621/live/sabaheta/sabaheta/147.ts
+#EXTINF:-1,Prva Files
+http://172.17.17.15:24621/live/sabaheta/sabaheta/172.ts
+#EXTINF:-1,Prva Max
+http://172.17.17.15:24621/live/sabaheta/sabaheta/173.ts
+#EXTINF:-1,Prva Plus
+http://172.17.17.15:24621/live/sabaheta/sabaheta/195.ts
+#EXTINF:-1,Prva Kick
+http://172.17.17.15:24621/live/sabaheta/sabaheta/194.ts
+#EXTINF:-1,N 1 BH
+http://172.17.17.15:24621/live/sabaheta/sabaheta/168.ts
+#EXTINF:-1,Hema TV
+http://172.17.17.15:24621/live/sabaheta/sabaheta/171.ts
+#EXTINF:-1,FACE TV
+http://172.17.17.15:24621/live/sabaheta/sabaheta/68.ts
+#EXTINF:-1,tv1
+http://172.17.17.15:24621/live/sabaheta/sabaheta/56.ts
+#EXTINF:-1,RTV NOVI PAZAR
+http://172.17.17.15:24621/live/sabaheta/sabaheta/15.ts
+#EXTINF:-1,BHTV
+http://172.17.17.15:24621/live/sabaheta/sabaheta/20.ts
+#EXTINF:-1,FTV
+http://172.17.17.15:24621/live/sabaheta/sabaheta/145.ts
+#EXTINF:-1,OTV Valentino
+http://172.17.17.15:24621/live/sabaheta/sabaheta/81.ts
+#EXTINF:-1,BN BiH
+http://172.17.17.15:24621/live/sabaheta/sabaheta/82.ts
+#EXTINF:-1,FOX
+http://172.17.17.15:24621/live/sabaheta/sabaheta/55.ts
+#EXTINF:-1,Fox Live
+http://172.17.17.15:24621/live/sabaheta/sabaheta/80.ts
+#EXTINF:-1,FOX MOVIE
+http://172.17.17.15:24621/live/sabaheta/sabaheta/70.ts
+#EXTINF:-1,Cinemania HD
+http://172.17.17.15:24621/live/sabaheta/sabaheta/160.ts
+#EXTINF:-1,FilmBox Premium-EXYU
+http://172.17.17.15:24621/live/sabaheta/sabaheta/65.ts
+#EXTINF:-1,FilmBox ArtHouse
+http://172.17.17.15:24621/live/sabaheta/sabaheta/69.ts
+#EXTINF:-1,FilmBox Plus
+http://172.17.17.15:24621/live/sabaheta/sabaheta/78.ts
+#EXTINF:-1,FilmBox Extra
+http://172.17.17.15:24621/live/sabaheta/sabaheta/79.ts
+#EXTINF:-1,EURONEWS
+http://172.17.17.15:24621/live/sabaheta/sabaheta/96.ts
+#EXTINF:-1,TV 5
+http://172.17.17.15:24621/live/sabaheta/sabaheta/44.ts
+#EXTINF:-1,A1 Islam
+http://172.17.17.15:24621/live/sabaheta/sabaheta/61.ts
+#EXTINF:-1,A1 Balkan
+http://172.17.17.15:24621/live/sabaheta/sabaheta/60.ts
+#EXTINF:-1,PEACE TV
+http://172.17.17.15:24621/live/sabaheta/sabaheta/146.ts
+#EXTINF:-1,MTV IGMAN
+http://172.17.17.15:24621/live/sabaheta/sabaheta/144.ts
+#EXTINF:-1,Hidayah Quran
+http://172.17.17.15:24621/live/sabaheta/sabaheta/151.ts
+#EXTINF:-1,Discavery S
+http://172.17.17.15:24621/live/sabaheta/sabaheta/27.ts
+#EXTINF:-1,RT Documentary
+http://172.17.17.15:24621/live/sabaheta/sabaheta/28.ts
+#EXTINF:-1,Lov i Ribolov
+http://172.17.17.15:24621/live/sabaheta/sabaheta/92.ts
+#EXTINF:-1,Discavery SCI
+http://172.17.17.15:24621/live/sabaheta/sabaheta/167.ts
+#EXTINF:-1,Nation Geographic
+http://172.17.17.15:24621/live/sabaheta/sabaheta/29.ts
+#EXTINF:-1,Fine Living
+http://172.17.17.15:24621/live/sabaheta/sabaheta/89.ts
+#EXTINF:-1,Discavery ID
+http://172.17.17.15:24621/live/sabaheta/sabaheta/33.ts
+#EXTINF:-1,Nation Geographic W
+http://172.17.17.15:24621/live/sabaheta/sabaheta/32.ts
+#EXTINF:-1,Viasat History
+http://172.17.17.15:24621/live/sabaheta/sabaheta/94.ts
+#EXTINF:-1,Animal Planet
+http://172.17.17.15:24621/live/sabaheta/sabaheta/148.ts
+#EXTINF:-1,Viasat Nature
+http://172.17.17.15:24621/live/sabaheta/sabaheta/31.ts
+#EXTINF:-1,Viasat Explorer
+http://172.17.17.15:24621/live/sabaheta/sabaheta/93.ts
+#EXTINF:-1,TravleChanal
+http://172.17.17.15:24621/live/sabaheta/sabaheta/198.ts
+#EXTINF:-1,DocuBox HD
+http://172.17.17.15:24621/live/sabaheta/sabaheta/149.ts
+#EXTINF:-1,TLC
+http://172.17.17.15:24621/live/sabaheta/sabaheta/30.ts
+#EXTINF:-1,Fight BOX
+http://172.17.17.15:24621/live/sabaheta/sabaheta/64.ts
+#EXTINF:-1,Cinestar TV
+http://172.17.17.15:24621/live/sabaheta/sabaheta/39.ts
+#EXTINF:-1,Cinestar A&T
+http://172.17.17.15:24621/live/sabaheta/sabaheta/40.ts
+#EXTINF:-1,CineStar Fantasy
+http://172.17.17.15:24621/live/sabaheta/sabaheta/101.ts
+#EXTINF:-1,CineStar Comedy
+http://172.17.17.15:24621/live/sabaheta/sabaheta/102.ts
+#EXTINF:-1,Disney Channel
+http://172.17.17.15:24621/live/sabaheta/sabaheta/63.ts
+#EXTINF:-1,CINESTAR TV2
+http://172.17.17.15:24621/live/sabaheta/sabaheta/153.ts
+#EXTINF:-1,B 1
+http://172.17.17.15:24621/live/sabaheta/sabaheta/154.ts
+#EXTINF:-1,Pink Music
+http://172.17.17.15:24621/live/sabaheta/sabaheta/67.ts
+#EXTINF:-1,PInk Family
+http://172.17.17.15:24621/live/sabaheta/sabaheta/66.ts
+#EXTINF:-1,Pink Western
+http://172.17.17.15:24621/live/sabaheta/sabaheta/46.ts
+#EXTINF:-1,Pink Triler
+http://172.17.17.15:24621/live/sabaheta/sabaheta/47.ts
+#EXTINF:-1,Pink Film
+http://172.17.17.15:24621/live/sabaheta/sabaheta/103.ts
+#EXTINF:-1,Pink Premium
+http://172.17.17.15:24621/live/sabaheta/sabaheta/48.ts
+#EXTINF:-1,Pink Comedy
+http://172.17.17.15:24621/live/sabaheta/sabaheta/49.ts
+#EXTINF:-1,Pink Action
+http://172.17.17.15:24621/live/sabaheta/sabaheta/50.ts
+#EXTINF:-1,Pink Horror
+http://172.17.17.15:24621/live/sabaheta/sabaheta/105.ts
+#EXTINF:-1,RED TV
+http://172.17.17.15:24621/live/sabaheta/sabaheta/45.ts
+#EXTINF:-1,Pink MOVIES
+http://172.17.17.15:24621/live/sabaheta/sabaheta/104.ts
+#EXTINF:-1,PinkWorldCinema
+http://172.17.17.15:24621/live/sabaheta/sabaheta/164.ts
+#EXTINF:-1,Pink Kids
+http://172.17.17.15:24621/live/sabaheta/sabaheta/51.ts
+#EXTINF:-1,Nick Jr
+http://172.17.17.15:24621/live/sabaheta/sabaheta/88.ts
+#EXTINF:-1,Nickelodeon
+http://172.17.17.15:24621/live/sabaheta/sabaheta/95.ts
+#EXTINF:-1,ATV kosovo
+http://172.17.17.15:24621/live/sabaheta/sabaheta/199.ts
+#EXTINF:-1,KANAL D Drama
+http://172.17.17.15:24621/live/sabaheta/sabaheta/200.ts
+#EXTINF:-1,RTK 3
+http://172.17.17.15:24621/live/sabaheta/sabaheta/112.ts
+#EXTINF:-1,RTK 4
+http://172.17.17.15:24621/live/sabaheta/sabaheta/113.ts
+#EXTINF:-1,TV PRIZRENI
+http://172.17.17.15:24621/live/sabaheta/sabaheta/116.ts
+#EXTINF:-1,BESA
+http://172.17.17.15:24621/live/sabaheta/sabaheta/117.ts
+#EXTINF:-1,TV Opinon
+http://172.17.17.15:24621/live/sabaheta/sabaheta/115.ts
+#EXTINF:-1,TV Mitrovica
+http://172.17.17.15:24621/live/sabaheta/sabaheta/120.ts
+#EXTINF:-1,Klan Kosova HD
+http://172.17.17.15:24621/live/sabaheta/sabaheta/119.ts
+#EXTINF:-1,Most TV
+http://172.17.17.15:24621/live/sabaheta/sabaheta/140.ts
+#EXTINF:-1,KTV
+http://172.17.17.15:24621/live/sabaheta/sabaheta/114.ts
+#EXTINF:-1,Klan HD
+http://172.17.17.15:24621/live/sabaheta/sabaheta/110.ts
+#EXTINF:-1,TV 21 Mix
+http://172.17.17.15:24621/live/sabaheta/sabaheta/122.ts
+#EXTINF:-1,DUKAGJINI TV
+http://172.17.17.15:24621/live/sabaheta/sabaheta/125.ts
+#EXTINF:-1,ALSAT -M
+http://172.17.17.15:24621/live/sabaheta/sabaheta/139.ts
+#EXTINF:-1,TestT
+http://172.17.17.15:24621/live/sabaheta/sabaheta/111.ts
+#EXTINF:-1,SYRY VISION
+http://172.17.17.15:24621/live/sabaheta/sabaheta/121.ts
+#EXTINF:-1,RTV 21 Populore
+http://172.17.17.15:24621/live/sabaheta/sabaheta/123.ts
+#EXTINF:-1,RTV 21
+http://172.17.17.15:24621/live/sabaheta/sabaheta/118.ts
+#EXTINF:-1,LIRIA TV
+http://172.17.17.15:24621/live/sabaheta/sabaheta/124.ts
+#EXTINF:-1,Joly Hd
+http://172.17.17.15:24621/live/sabaheta/sabaheta/126.ts
+#EXTINF:-1,Tring World
+http://172.17.17.15:24621/live/sabaheta/sabaheta/131.ts
+#EXTINF:-1,Tring Tring
+http://172.17.17.15:24621/live/sabaheta/sabaheta/136.ts
+#EXTINF:-1,Tring Super
+http://172.17.17.15:24621/live/sabaheta/sabaheta/135.ts
+#EXTINF:-1,Tring Summertime
+http://172.17.17.15:24621/live/sabaheta/sabaheta/134.ts
+#EXTINF:-1,Tring Planet
+http://172.17.17.15:24621/live/sabaheta/sabaheta/130.ts
+#EXTINF:-1,KLAN MAQEDONI
+http://172.17.17.15:24621/live/sabaheta/sabaheta/138.ts
+#EXTINF:-1,TRING FANTASY
+http://172.17.17.15:24621/live/sabaheta/sabaheta/137.ts
+#EXTINF:-1,Tring Life
+http://172.17.17.15:24621/live/sabaheta/sabaheta/133.ts
+#EXTINF:-1,Tring Kids
+http://172.17.17.15:24621/live/sabaheta/sabaheta/127.ts
+#EXTINF:-1,Tring History
+http://172.17.17.15:24621/live/sabaheta/sabaheta/129.ts
+#EXTINF:-1,Tring Action
+http://172.17.17.15:24621/live/sabaheta/sabaheta/132.ts
+#EXTINF:-1,TipTv
+http://172.17.17.15:24621/live/sabaheta/sabaheta/128.ts
+#EXTINF:-1,NTV -T
+http://172.17.17.15:24621/live/sabaheta/sabaheta/159.ts
+#EXTINF:-1,TV8
+http://172.17.17.15:24621/live/sabaheta/sabaheta/72.ts
+#EXTINF:-1,TV8 5
+http://172.17.17.15:24621/live/sabaheta/sabaheta/73.ts
+#EXTINF:-1,STAR Tv
+http://172.17.17.15:24621/live/sabaheta/sabaheta/77.ts
+#EXTINF:-1,SHOW TV
+http://172.17.17.15:24621/live/sabaheta/sabaheta/71.ts
+#EXTINF:-1,TRT Turk
+http://172.17.17.15:24621/live/sabaheta/sabaheta/156.ts
+#EXTINF:-1,Kanal D
+http://172.17.17.15:24621/live/sabaheta/sabaheta/74.ts
+#EXTINF:-1,KANAL 7
+http://172.17.17.15:24621/live/sabaheta/sabaheta/100.ts
+#EXTINF:-1,ATV
+http://172.17.17.15:24621/live/sabaheta/sabaheta/76.ts
+#EXTINF:-1,FOX TV TR
+http://172.17.17.15:24621/live/sabaheta/sabaheta/170.ts
+#EXTINF:-1,Tek Rumeli
+http://172.17.17.15:24621/live/sabaheta/sabaheta/157.ts
+#EXTINF:-1,CARTOON NETWORK
+http://172.17.17.15:24621/live/sabaheta/sabaheta/75.ts
+#EXTINF:-1,Nickeloadeon J
+http://172.17.17.15:24621/live/sabaheta/sabaheta/53.ts
+#EXTINF:-1,Minimax
+http://172.17.17.15:24621/live/sabaheta/sabaheta/52.ts
+#EXTINF:-1,Hayatovci
+http://172.17.17.15:24621/live/sabaheta/sabaheta/54.ts
+#EXTINF:-1,RTS 1 SD
+http://172.17.17.15:24621/live/sabaheta/sabaheta/166.ts
+#EXTINF:-1,RTS 2 SD
+http://172.17.17.15:24621/live/sabaheta/sabaheta/165.ts
+#EXTINF:-1,SUPERSTART 2
+http://172.17.17.15:24621/live/sabaheta/sabaheta/193.ts
+#EXTINF:-1,RTS ZIVOT
+http://172.17.17.15:24621/live/sabaheta/sabaheta/201.ts
+#EXTINF:-1,RTS TREZOR
+http://172.17.17.15:24621/live/sabaheta/sabaheta/203.ts
+#EXTINF:-1,RTS POLETARAC
+http://172.17.17.15:24621/live/sabaheta/sabaheta/204.ts
+#EXTINF:-1,RTS KOLO
+http://172.17.17.15:24621/live/sabaheta/sabaheta/205.ts
+#EXTINF:-1,RTS KLASIKA
+http://172.17.17.15:24621/live/sabaheta/sabaheta/206.ts
+#EXTINF:-1,RTS DRAMA
+http://172.17.17.15:24621/live/sabaheta/sabaheta/202.ts
+#EXTINF:-1,RTS NAUKA
+http://172.17.17.15:24621/live/sabaheta/sabaheta/192.ts
+#EXTINF:-1,A1 Shqip
+http://172.17.17.15:24621/live/sabaheta/sabaheta/59.ts
+#EXTINF:-1,GE: VOX
+http://172.17.17.15:24621/live/sabaheta/sabaheta/84.ts
+#EXTINF:-1,GE: SAT 1
+http://172.17.17.15:24621/live/sabaheta/sabaheta/87.ts
+#EXTINF:-1,GE: RTL 2
+http://172.17.17.15:24621/live/sabaheta/sabaheta/85.ts
+#EXTINF:-1,GE: RTL
+http://172.17.17.15:24621/live/sabaheta/sabaheta/86.ts
+#EXTINF:-1,GE: KABLE 1
+http://172.17.17.15:24621/live/sabaheta/sabaheta/83.ts
+#EXTINF:-1,EuroSport1
+http://172.17.17.15:24621/live/sabaheta/sabaheta/1.ts
+#EXTINF:-1,EuroSport2
+http://172.17.17.15:24621/live/sabaheta/sabaheta/2.ts
+#EXTINF:-1,EuroSport2HD
+http://172.17.17.15:24621/live/sabaheta/sabaheta/3.ts
+#EXTINF:-1,SPORT K HD
+http://172.17.17.15:24621/live/sabaheta/sabaheta/158.ts
+#EXTINF:-1,HERC HD
+http://172.17.17.15:24621/live/sabaheta/sabaheta/169.ts
+#EXTINF:-1,Super TV Media
+http://172.17.17.15:24621/live/sabaheta/sabaheta/176.ts
+#EXTINF:-1,KCN Kopernikus 1
+http://172.17.17.15:24621/live/sabaheta/sabaheta/58.ts
+#EXTINF:-1,DMSAT
+http://172.17.17.15:24621/live/sabaheta/sabaheta/141.ts
+#EXTINF:-1,SupersatTV
+http://172.17.17.15:24621/live/sabaheta/sabaheta/196.ts
+#EXTINF:-1,101 TV
+http://172.17.17.15:24621/live/sabaheta/sabaheta/197.ts
+#EXTINF:-1,Grand TV
+http://172.17.17.15:24621/live/sabaheta/sabaheta/57.ts
+#EXTINF:-1,MTV KOSOVO
+http://172.17.17.15:24621/live/sabaheta/sabaheta/98.ts
+#EXTINF:-1,RTS SVET
+http://172.17.17.15:24621/live/sabaheta/sabaheta/143.ts
+#EXTINF:-1,RTS MUZIKA
+http://172.17.17.15:24621/live/sabaheta/sabaheta/142.ts
+#EXTINF:-1,HBO
+http://172.17.17.15:24621/live/sabaheta/sabaheta/161.ts
+#EXTINF:-1,OStaniKodKuce-19-CP2
+http://172.17.17.15:24621/live/sabaheta/sabaheta/163.ts
+#EXTINF:-1,OstaniDoma-19-CP1
+http://172.17.17.15:24621/live/sabaheta/sabaheta/162.ts
+#EXTINF:-1,Arena Sport 1
+http://172.17.17.15:24621/live/sabaheta/sabaheta/34.ts
+#EXTINF:-1,Arena Sport 2
+http://172.17.17.15:24621/live/sabaheta/sabaheta/35.ts
+#EXTINF:-1,Arena Sport 3
+http://172.17.17.15:24621/live/sabaheta/sabaheta/36.ts
+#EXTINF:-1,Arena Sport 4
+http://172.17.17.15:24621/live/sabaheta/sabaheta/37.ts
+#EXTINF:-1,Arena Sport 5
+http://172.17.17.15:24621/live/sabaheta/sabaheta/38.ts
+#EXTINF:-1,Sport K 1
+http://172.17.17.15:24621/live/sabaheta/sabaheta/41.ts
+#EXTINF:-1,Sport K 2
+http://172.17.17.15:24621/live/sabaheta/sabaheta/42.ts
+#EXTINF:-1,Sport K 3
+http://172.17.17.15:24621/live/sabaheta/sabaheta/43.ts
+#EXTINF:-1,SK 4
+http://172.17.17.15:24621/live/sabaheta/sabaheta/174.ts
+#EXTINF:-1,SK 5
+http://172.17.17.15:24621/live/sabaheta/sabaheta/175.ts
+#EXTINF:-1,ASportP 1
+http://172.17.17.15:24621/live/sabaheta/sabaheta/62.ts
+#EXTINF:-1,ASport2
+http://172.17.17.15:24621/live/sabaheta/sabaheta/150.ts
