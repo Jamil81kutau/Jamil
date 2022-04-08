@@ -19,6 +19,10 @@ http://playlist.urfan.web.id/dr9445/h/h15/01.m3u8
 http://playlist.urfan.web.id/dr9445/s/s24/01.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i0.wp.com/www.whatphone.net/wp-content/uploads/2018/10/new-k-plus-logo.png" ,K+
 http://group1-swiftservehd-1.dens.tv/h/h08/01.m3u8
+#EXTINF:0 group-title="Entertainment" tvg-logo="http://dusktill.masuk.web.id/img/lifetime.png" ,Lifetime
+http://playlist.urfan.web.id/dr9445/h/h28/01.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a5/Style_Network_2012_Logo.png" ,STYLE
+http://playlist.urfan.web.id/dr9445/h/h01/01.m3u8
 #EXTINF:-1 group-title="Kids" tvg-id="Erz.3abnkids" tvg-logo="https://i.ibb.co/QvjChqr/3-ABN-Kids.png" ,3ABN Kids
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://www.img.in.th/images/2a551c1a9831f7c1ceaeac6e43558cc0.png" ,ANIMAX
@@ -39,7 +43,7 @@ http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/playlist.m3u8?U
 https://freelive.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/chunks.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://thumbs2.imgbox.com/ec/ef/JOOW0D7l_t.png" ,Kabillion
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 group-title="Kids" tvg-logo="https://logos.fandom.com/wiki/Kids_TV?file=MNCKids_tegak.png" ,MKIDZ
+#EXTINF:-1 group-title="Kids" tvg-logo="https://logos.fandom.com/wiki/My_Kidz?file=M_Kidz.png" ,MKIDZ
 http://playlist.urfan.web.id/uq2663/h/h191/index.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7f/Kids_TV_%282020%29.png" ,NOW KIDS
 http://203.154.177.124:8899/live/ch20/playlist.m3u8
@@ -51,7 +55,7 @@ https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8?uri=eroz
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://www.img.in.th/images/52787280db33f47616d06400c93ef6db.jpg" ,TOONEE
 https://cdn6.goprimetime.info/feed/202105171329/LC23/playlist.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/xCL0pN3H/Super-Toons.png" ,TOONKIDZ
+#EXTINF:-1 group-title="Kids" tvg-logo="http://2.bp.blogspot.com/-yus5Pswe5JI/VSWG9WkDC_I/AAAAAAAAFpQ/nceiQ47T1UI/s1600/LOGO%2Bfinal.png" ,TOONKIDZ
 http://playlist.urfan.web.id/x6bnqe/s/s81/01.m3u8
 #EXTINF:-1 group-title="Kids" tvg-id="Zoomoo" tvg-name="Zoomoo" tvg-logo="https://cdn4.mbahnunungonline.net/img/bMwkQEd.png?v=1.0.0.1" ,Zoomoo
 http://203.154.177.124:8899/live/ch20/playlist.m3u8
@@ -81,7 +85,7 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 http://203.154.177.124:8899/live/ch23/playlist.m3u8
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-id="Smithsonian Channel" tvg-name="Smithsonian Channel" tvg-logo="https://cdn4.mbahnunungonline.net/img/5znakl6.png?v=1.0.0.1" ,Smithsonian Channel
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/c65c26d876841e22016d08d07874cf66" ,Smithsonian Channel SD
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://cdn4.mbahnunungonline.net/img/5znakl6.png?v=1.0.0.1" ,Smithsonian Channel SD
 https://smithsonianaus-samsungau.amagi.tv/playlist480p.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://c7.uihere.com/files/924/950/453/sony-entertainment-television-sony-bbc-earth-high-definition-television-sony-yay-sony-tv.jpg" ,Sony BBC Earth
 http://125.209.88.166:45793/BRN/BBCEarthHD.stream/playlist.m3u8
@@ -95,10 +99,6 @@ http://203.154.177.124:8899/live/ch18/playlist.m3u8
 https://d8d90e09ccf64953ad3243fd6dd587de.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ca_WeatherSpy/playlist.m3u8?ads.wurl_channel=388&ads.wurl_name=WeatherSpy&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.zdtHuDuGHLzgR9a1Of4kmwHaE9&pid=Api&P=0&w=274&h=183" ,WIRED
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_ca_wired_001.m3u8?ads.caid=WIRED&ads.csid=samsungtvplus_ca_wired_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB19&ads._fw_content_genre=technology&ads._fw_content_language=en%2Cfr-CA%2Cfr&ads._fw_content_rating=tv-14&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=32&ads.xumo_contentName=CondeNastWired&ads.xumo_providerId=32&ads.xumo_providerName=CondeNastWired&ads.xumo_channelId=9991515&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
-#EXTINF:0 group-title="Entertainment" tvg-logo="http://dusktill.masuk.web.id/img/lifetime.png" ,Lifetime
-http://playlist.urfan.web.id/dr9445/h/h28/01.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="data:image/png;base64,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" ,STYLE
-http://playlist.urfan.web.id/dr9445/h/h01/01.m3u8
 #EXTINF:0 group-title="Lokal" tvg-logo="http://dusktill.masuk.web.id/img/antv.png" ,ANTV
 http://playlist.urfan.web.id/qwr9ew/s/s07/01.m3u8
 #EXTINF:-1 group-title="Lokal" tvg-id="Erz.balitv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYz3WBrxrdACZ6vAyIyjiT8kwioZqIqWf0iA&usqp=CAU" ,BALI TV
@@ -133,7 +133,7 @@ https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/index.m3u8
 #EXTINF:-1 group-title="Lokal" tvg-id="Erz.Jambitv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrb7-nhn7-gtKNiK6nzjfhJO5FZb6z1kSURg&usqp=CAU" ,Jambi Tv
 http://122.248.43.138:1935/ch23/myStream/index.m3u8
-#EXTINF:-1 group-title="Lokal" tvg-id="Erz.Jawapostv" tvg-logo="http://www.jawapos.tv/images/JPM%20Transparent.png" ,JawaPosTV Banten
+#EXTINF:-1 group-title="Lokal" tvg-id="Erz.Jawapostv" tvg-logo="https://magetan.satujam.com/wp-content/uploads/2016/05/Jawa-Pos.jpg?strip=all&lossy=1&ssl=1" ,JawaPosTV Banten
 http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Lokal" tvg-id="Erz.Jogjatv" tvg-logo="http://jogjatv.tv/wp-content/uploads/2015/08/LOGO-JOGJA-TV-NEW-pii-new.png" ,Jogja TV
 https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
@@ -223,7 +223,7 @@ http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/05.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="http://dusktill.masuk.web.id/img/arirang.png" ,Arirang
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 group-title="Movies" tvg-logo="https://media-exp1.licdn.com/dms/image/C510BAQHuQxeMo-wVMg/company-logo_200_200/0?e=2159024400&v=beta&t=sWfOvchmbFnpWNzjkSEPP5-uzszcFLeABeeyEPdsvYg" ,Arirang Korea
+#EXTINF:-1 group-title="Movies" tvg-logo="https://pbs.twimg.com/profile_images/2811918162/c906d87363caa08c8d46c43becb5e483_400x400.png" ,Arirang Korea
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
 #EXTINF:0 group-title="Movies" tvg-logo="http://dusktill.masuk.web.id/img/axn.png" ,AXN
 http://playlist.urfan.web.id/dr9445/h/h141/01.m3u8
@@ -231,7 +231,7 @@ http://playlist.urfan.web.id/dr9445/h/h141/01.m3u8
 http://playlist.urfan.web.id/qwr9ew/s/s31/01.m3u8
 #EXTINF:0 group-title="Movies" tvg-logo="http://dusktill.masuk.web.id/img/cm.png" ,Celestial Movies
 http://playlist.urfan.web.id/dr9445/h/h14/01.m3u8
-#EXTINF:-1 group-title="Movies" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.BFSWQismX_Aov8ZPFRGZ7wHaDt&pid=Api&P=0&w=337&h=168" ,CINEMA_WORLD
+#EXTINF:-1 group-title="Movies" tvg-logo="http://dusktill.masuk.web.id/img/cinemaworld.png" ,CINEMA_WORLD
 http://group2-swiftservehd-1.dens.tv/h/h04/01.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.img.in.th/images/ee09ae81c0e90a4ba58367b01bfa9c86.jpg" ,CINEMAX
 http://ip2121.com:8081/live/cinemax/playlist.m3u8
@@ -251,11 +251,11 @@ https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b1200000.m3u8
 http://group2-swiftservehd-1.dens.tv/h/h07/01.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.lyngsat.com/logo/tv/mm/my-cinema-id.png" ,My Cinema
 http://playlist.urfan.web.id/uq2663/h/h192/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-logo="https://logos.fandom.com/wiki/My_Cinema_Asia?file=MCA_%25282019%2529.png" ,My Cinema Asia
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/C1TV6Lg/mycinemaasia.png" ,My Cinema Asia
 http://playlist.urfan.web.id/uq2663/h/h193/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-logo="https://www.facebook.com/MyCinemaEuropeAsia/photos/a.101417915111679/101418215111649/" ,My Cinema Europe
+#EXTINF:-1 group-title="Movies" tvg-logo="https://cms.cignal.tv/Upload/Images/Cinema-Europe.png" ,My Cinema Europe
 http://playlist.urfan.web.id/uq2663/h/h18/01.m3u8
-#EXTINF:-1 group-title="Movies" tvg-logo="https://logos.fandom.com/wiki/My_Family_Channel?file=MFC.png" ,My Family Cinema
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/Sfv0Kh2/114-removebg-preview.png" ,My Family Cinema
 http://playlist.urfan.web.id/uq2663/h/h194/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="http://img2.wikia.nocookie.net/__cb20140607175204/logopedia/images/a/a0/Thrill_logo.jpg" ,THRILL
 http://group2-swiftservesd-1.dens.tv/s/s34/02.m3u8?
@@ -335,9 +335,9 @@ https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 https://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-id="Erz.Thedesignnetwork" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEuD_S0_20ac07FrdsaaFrG3YxWChqneRSUw&usqp=CAU" ,The Design Network
 https://thedesignnetwork-tdn-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/54/Tokyo_MX_TV_2000s.svg/revision/latest?cb=20150301030736" ,Tokyo MX 1
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/20150701201731.png/revision/latest/scale-to-width-down/403?cb=20200512214408" ,Tokyo MX 1
 http://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/54/Tokyo_MX_TV_2000s.svg/revision/latest?cb=20150301030736" ,Tokyo MX 2
+#EXTINF:-1 group-title="NEWS" tvg-logo="http://www.nettvpro.live/uploads/allimg/20/1-2011221Q3340-L.jpg" ,Tokyo MX 2
 http://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://www.img.in.th/images/da7fe18b34092574913e8357193cd986.jpg" ,TOP NEWS
 https://live.topnews.co.th/hls/topnews_a_1080.m3u8
@@ -377,7 +377,7 @@ http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b180000
 https://tv.rodja.live/tasik/mgitv/index.m3u8
 #EXTINF:-1 group-title="Religi" tvg-logo="http://dusktill.masuk.web.id/img/muadztv.png" ,muadzTV
 http://wowza60.indostreamserver.com:1935/muadztv/live/playlist.m3u8
-#EXTINF:-1 group-title="Religi" tvg-logo="https://play-lh.googleusercontent.com/uxvSu0IoIQMdhYzVOd1aNj_Vr_Ovvx6eoEDyycYqFUBTW5yvU8wDabdyKNxe2NnfYw" ,QURANTV
+#EXTINF:-1 group-title="Religi" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmV4cGVydC5hcHBsaWNhdGlvbi5xdXJhbnR2X3NjcmVlbl81XzE1NDQ0Njg0MzBfMDI0/screen-5.jpg?h=800&fakeurl=1&type=.jpg" ,QURANTV
 http://playlist.urfan.web.id/qwr9ew/s/s28/01.m3u8
 #EXTINF:-1 group-title="Religi" tvg-logo="http://dusktill.masuk.web.id/img/rodjatv.png" ,RODJA TV
 http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
