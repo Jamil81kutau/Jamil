@@ -11,7 +11,7 @@ http://playlist.urfan.web.id/x6bnqe/s/s73/S4/mnf.m3u8
 http://playlist.urfan.web.id/uq2663/h/h143/01.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://cdn-icons-png.flaticon.com/512/0/375.png" ,PLAY
 http://playlist.urfan.web.id/x6bnqe/s/s37/S4/mnf.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Rock_Entertainment.png/1200px-Rock_Entertainment.png" ,ROCKENTERTAINMENT
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.transvision.co.id/img/channel/rock.png" ,ROCKENTERTAINMENT
 http://playlist.urfan.web.id/dr9445/h/h16/01.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://cms.dmpcdn.com/livetv/2021/08/31/12db2650-0a7b-11ec-8b33-05dadd6cbd44_original.png" ,ROCKEXTREME
 http://playlist.urfan.web.id/dr9445/h/h15/01.m3u8
@@ -43,7 +43,7 @@ http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/playlist.m3u8?U
 https://freelive.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/chunks.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://thumbs2.imgbox.com/ec/ef/JOOW0D7l_t.png" ,Kabillion
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 group-title="Kids" tvg-logo="https://logos.fandom.com/wiki/My_Kidz?file=M_Kidz.png" ,MKIDZ
+#EXTINF:-1 group-title="Kids" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1623301101-.png" ,MKIDZ
 http://playlist.urfan.web.id/uq2663/h/h191/index.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7f/Kids_TV_%282020%29.png" ,NOW KIDS
 http://203.154.177.124:8899/live/ch20/playlist.m3u8
