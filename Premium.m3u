@@ -975,8 +975,8 @@ http://shareext@urtv.cc:80/live/114048/114048/7219.ts?shareext.ts
 http://iptv12k.com:35461/8022022301/468985/1881
 #EXTINF:-1 ,CinemaEuropa
 http://group1-swiftservehd-1.dens.tv/h/h18/01.m3u8
-#EXTINF:-1 ,Cinemax
-http://iptv12k.com:35461/8022022301/468985/2114
+#EXTINF:-1 ,Cinemax coba
+http://iptv12k.com:35461/8022022301/468985/2114.ts
 #EXTINF:-1 ,Cinemax
 http://iptv12k.com:35461/8022022301/468985/1883
 #EXTINF:-1 ,CINEMAX(dec=native)
@@ -986,7 +986,7 @@ http://shareext@urtv.cc:80/live/114048/114048/7062.ts?shareext.ts
 #EXTINF:-1 ,Cinemax_HD
 http://iptv12k.com:35461/8022022301/468985/1882
 #EXTINF:-1 ,CitraBioskop
-http://tvn.x10.bz/TvN_ID/master-1.m3u8
+http://.x10.bz/TvN_ID/master-1.m3u8
 #EXTINF:-1 ,CitraDangdut
 http://tvn.x10.bz/TvN_ID/master-10.m3u8
 #EXTINF:-1 ,CitraDrama
