@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IPTV", RCTI HD
 https://mnctv-cutv.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7-mp4a_96000=2.m3u8
 https://goldenlivektv.com/Live_TV/Channel_Rcti.m3u8
