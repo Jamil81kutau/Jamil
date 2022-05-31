@@ -1,22 +1,22 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IPTV", RCTI HD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IPTV", RCTI
 https://mnctv-cutv.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7-mp4a_96000=2.m3u8
 https://goldenlivektv.com/Live_TV/Channel_Rcti.m3u8
 http://iptv12k.com:35461/8022022301/468985/1812
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IPTV", MNCTV HD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IPTV", MNCTV
 https://mnctv-cutv.rctiplus.id/live/eds/MNCTV_2021/live_fta/MNCTV_2021-avc1_800000=6-mp4a_96000=2.m3u8
 https://goldenlivektv.com/Live_TV/Channel_Mnctv.m3u8
 http://axcestv.vip:8080/live/freeview/axcestv/663.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IPTV", INDOSIAR HD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IPTV", INDOSIAR
 http://iptv12k.com:35461/8022022301/468985/1814
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IPTV", GTV HD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IPTV", GTV
 https://mnctv-cutv.rctiplus.id/live/eds/GTV2021/live_fta/GTV2021-avc1_800000=6-mp4a_96000=2.m3u8
 https://goldenlivektv.com/Live_TV/Channel_Gtv.m3u8
 http://axcestv.vip:8080/live/freeview/axcestv/665.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IPTV", Inewtv HD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IPTV", InewsTV
 https://mnctv-cutv.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021-avc1_800000=8-mp4a_96000=2.m3u8
 https://goldenlivektv.com/Live_TV/Channel_Inews.m3u8
 http://axcestv.vip:8080/live/freeview/axcestv/744.ts
@@ -37,7 +37,7 @@ http://15.235.142.228:8080/live/hometvfree/selaludihati/25.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IPTV", ANTV
 http://playlist.urfan.web.id/qwr9ew/s/s07/01.m3u8
 http://15.235.142.228:8080/live/hometvfree/selaludihati/28.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IPTV", NETTV HD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IPTV", NETTV
 http://iptv12k.com:35461/8022022301/468985/1813
 http://playlist.urfan.web.id/qwr9ew/s/s08/01.m3u8
 http://15.235.142.228:8080/live/hometvfree/selaludihati/36.m3u8
