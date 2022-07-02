@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",HBO
+https://raw.githubusercontent.com/zalindo/tv/master/hbo.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",HBO ID
+https://www.dropbox.com/s/dl/0577j7w2ej55ajv/mkctv_hbo.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",HBO HITS
+https://raw.githubusercontent.com/zalindo/tv/master/hbohit.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",HBO Family
+https://raw.githubusercontent.com/zalindo/tv/master/hbofam.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",HBO Signature
+https://raw.githubusercontent.com/zalindo/tv/master/hbosig.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",Cinemax
+https://www.dropbox.com/s/dl/zz3he1mu3lilgiz/mkctv_cinemax.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",ZQ Drama ID
+https://tinyurl.com/gratistvmediaZQDRAMA
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",Film? 
+http://198.98.55.16:80/crtv.php?id=1174 
