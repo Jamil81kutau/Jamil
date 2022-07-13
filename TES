@@ -1,0 +1,119 @@
+#EXTM3U
+#EXTINF:-1 group-title="LOKAL" tvg-name="TRANS 7" tvg-logo="https://bgltv.my.id:443/images/62cb71ef18568e280a4bfac6fe31afc8.png" ,TRANS 7
+https://bgltv.my.id:443/play/n6Us8gHRUkL9D-1y8qE5TyDJ7dito2bMWSGnEWIbbqE/ts
+#EXTINF:-1 group-title="LOKAL" tvg-name="TRANS TV" tvg-logo="https://bgltv.my.id:443/images/7f1fe0cd6c40ba7403baff8eb56be62b.png" ,TRANS TV
+https://bgltv.my.id:443/play/n6Us8gHRUkL9D-1y8qE5T-ygb-mC5SJjz3jfvXOwSTE/ts
+#EXTINF:-1 group-title="LOKAL" tvg-name="INDOSIAR" tvg-logo="https://bgltv.my.id:443/images/8fd4ba974038a30d9dfff478d0203229.png" ,INDOSIAR
+https://bgltv.my.id:443/play/n6Us8gHRUkL9D-1y8qE5TyjPyVUKixjQAoxe5U7VemA/ts
+#EXTINF:-1 group-title="LOKAL" tvg-name="SCTV" tvg-logo="https://bgltv.my.id:443/images/413f8aaf1cc5f75f5d2e2491535f8a16.png" ,SCTV
+https://bgltv.my.id:443/play/n6Us8gHRUkL9D-1y8qE5TzqUAoeiEI-0FqvolDMj-1A/ts
+#EXTINF:-1 group-title="LOKAL" tvg-name="RCTI" tvg-logo="https://bgltv.my.id:443/images/76e0d78ea4893625ea43cd23898f6a8c.png" ,RCTI
+https://bgltv.my.id:443/play/n6Us8gHRUkL9D-1y8qE5T2fMmnqvPSGa7eDvsR26tQE/ts
+#EXTINF:-1 group-title="LOKAL" tvg-name="MNC TV" tvg-logo="https://i.ibb.co/HGkQ2YB/mnctv-home-tv.png" ,MNC TV
+https://bgltv.my.id:443/play/n6Us8gHRUkL9D-1y8qE5T_X5YLTtSZn6BYkOsTADaUw/ts
+#EXTINF:-1 group-title="LOKAL" tvg-name="GTV" tvg-logo="https://bgltv.my.id:443/images/da1fe92615488dff5cbd4eb42390eec3.png" ,GTV
+https://bgltv.my.id:443/play/n6Us8gHRUkL9D-1y8qE5T9WcMGyRfcfABZGbTN_Pigo/ts
+#EXTINF:-1 group-title="LOKAL" tvg-name="iNEWS" tvg-logo="https://bgltv.my.id:443/images/6cfea4ed235b81365a7b72373aa420f6.png" ,iNEWS
+https://bgltv.my.id:443/play/n6Us8gHRUkL9D-1y8qE5Tzgx3iYmAnCvoR8ivp2c2YY/ts
+#EXTINF:-1 group-title="LOKAL" tvg-name="ANTV" tvg-logo="https://i.ibb.co/478Nqtp/antv-home-tv.png" ,ANTV
+https://bgltv.my.id:443/play/n6Us8gHRUkL9D-1y8qE5T5ejNqgyxFXmvTrHfSY93_M/ts
+#EXTINF:-1 group-title="LOKAL" tvg-name="TV ONE" tvg-logo="https://bgltv.my.id:443/images/3fbbc14a62c85e0fd9791d2639c5c18e.png" ,TV ONE
+https://bgltv.my.id:443/play/n6Us8gHRUkL9D-1y8qE5TzjCozqs8lbqTtkFLvM86yI/ts
+#EXTINF:-1 group-title="LOKAL" tvg-name="NET TV" tvg-logo="https://i.ibb.co/mJjQDnj/nettv-home-tv.png" ,NET TV
+https://bgltv.my.id:443/play/n6Us8gHRUkL9D-1y8qE5T0f9UPiFY72PLJcLOX2Xmew/ts
+#EXTINF:-1 group-title="LOKAL" tvg-name="BERITA SATU" tvg-logo="https://bgltv.my.id:443/images/f099981f1bcccf085a73574fc1d7582c.png" ,BERITA SATU
+https://bgltv.my.id:443/play/n6Us8gHRUkL9D-1y8qE5TxL66KkREBXo77pT3U_yxOo/ts
+#EXTINF:-1 group-title="LOKAL" tvg-name="RTV" tvg-logo="https://bgltv.my.id:443/images/5cfd1cb70a92411089abd2da23029fef.png" ,RTV
+https://bgltv.my.id:443/play/n6Us8gHRUkL9D-1y8qE5T2B4T-5iUxpbHh8BSLusFx8/ts
+#EXTINF:-1 group-title="LOKAL" tvg-name="KOMPAS TV" tvg-logo="https://bgltv.my.id:443/images/7ef90cc5e80e8d48285d276af6ad4103.png" ,KOMPAS TV
+https://bgltv.my.id:443/play/n6Us8gHRUkL9D-1y8qE5TxjY3l1WS9J4GRQ9IKMqULA/ts
+#EXTINF:-1 group-title="LOKAL" tvg-name="TVRI" tvg-logo="https://bgltv.my.id:443/images/fea0f379dcf10b0dfea8d4c375eb2cdf.png" ,TVRI
+https://bgltv.my.id:443/play/n6Us8gHRUkL9D-1y8qE5T7GuRe_V1AMPveafovmYjDk/ts
+#EXTINF:-1 group-title="LOKAL" tvg-name="METRO TV" tvg-logo="https://bgltv.my.id:443/images/ea7c1816c4a7eed39d94292229212467.png" ,METRO TV
+https://bgltv.my.id:443/play/n6Us8gHRUkL9D-1y8qE5T9vu7QDqkkUdaZ5tdWD_y40/ts
+#EXTINF:-1 group-title="LOKAL" tvg-name="CNN INDONESIA" tvg-logo="https://bgltv.my.id:443/images/3e30ef6c5575c9f115ad292b44cbd422.png" ,CNN INDONESIA
+https://bgltv.my.id:443/play/n6Us8gHRUkL9D-1y8qE5T3V-Hev4qwmtB6uUu39d1uY/ts
+#EXTINF:-1 group-title="LOKAL" tvg-name="CNBC INDONESIA" tvg-logo="https://bgltv.my.id:443/images/ace4ec96df6b9dfca10b1bed70129acd.png" ,CNBC INDONESIA
+https://bgltv.my.id:443/play/n6Us8gHRUkL9D-1y8qE5T7T4sP8LDCPofqj1FKDZ1iw/ts
+#EXTINF:-1 group-title="LOKAL" tvg-name="IDX" tvg-logo="https://bgltv.my.id:443/images/fa7cc98574fd6db16bb5f04021aa40bb.png" ,IDX
+https://bgltv.my.id:443/play/n6Us8gHRUkL9D-1y8qE5Tw5v6hix8HwiLfWdclM8kyM/ts
+#EXTINF:-1 group-title="LOKAL" tvg-name="JAKARTA GLOBE" ,JAKARTA GLOBE
+https://bgltv.my.id:443/play/n6Us8gHRUkL9D-1y8qE5TyfSf26Cx_8JzbXzVdoqPgk/ts
+#EXTINF:-1 group-title="MOVIES" tvg-name="HBO" tvg-logo="https://bgltv.my.id:443/images/b5f988832258ec0976123182308e46eb.png" ,HBO
+https://bgltv.my.id:443/play/n6Us8gHRUkL9D-1y8qE5TwriwX1xf74Q9S8xl7EgDpg/ts
+#EXTINF:-1 group-title="MOVIES" tvg-name="HBO HITS" tvg-logo="https://bgltv.my.id:443/images/1a9140fbd1127fc7658e3197d4e6444c.png" ,HBO HITS
+https://bgltv.my.id:443/play/n6Us8gHRUkL9D-1y8qE5Tzal4aKmjMx9gzdqj7gDDOs/ts
+#EXTINF:-1 group-title="MOVIES" tvg-name="HBO SIGNATURE" tvg-logo="https://bgltv.my.id:443/images/f61acf2373cc2c70ac411471bf265c1f.png" ,HBO SIGNATURE
+https://bgltv.my.id:443/play/n6Us8gHRUkL9D-1y8qE5TzjE_Vny74ZgcpiYyBmWe6w/ts
+#EXTINF:-1 group-title="MOVIES" tvg-name="HBO FAMILY" tvg-logo="https://bgltv.my.id:443/images/7f360078954c7e1280da87eda32e41f3.png" ,HBO FAMILY
+https://bgltv.my.id:443/play/n6Us8gHRUkL9D-1y8qE5Tx4WrJapPAJHeppZYM3OmaQ/ts
+#EXTINF:-1 group-title="MOVIES" tvg-name="CINEMAX" tvg-logo="https://bgltv.my.id:443/images/a9cb1cb08788599a2c7a4d319b356798.png" ,CINEMAX
+https://bgltv.my.id:443/play/n6Us8gHRUkL9D-1y8qE5T2l3ER-xp7nz5QSWOJ6AkTA/ts
+#EXTINF:-1 group-title="MOVIES" tvg-name="BIOSKOP INDONESIA" tvg-logo="https://bgltv.my.id:443/images/18df021ae156d7b7328d65a6ed4ec0c9.png" ,BIOSKOP INDONESIA
+https://bgltv.my.id:443/play/n6Us8gHRUkL9D-1y8qE5TyFUS5lZrciQfT_IH-2Q9s8/ts
+#EXTINF:-1 group-title="MOVIES" tvg-name="FLIK" tvg-logo="https://bgltv.my.id:443/images/beefbebb931f784f4c387bfb3d7f69f5.png" ,FLIK
+https://bgltv.my.id:443/play/n6Us8gHRUkL9D-1y8qE5T8LLHG-HrTEjkjac0LG_MxM/ts
+#EXTINF:-1 group-title="MOVIES" tvg-name="IMC" tvg-logo="https://bgltv.my.id:443/images/255983587374742a5788b237ca845290.png" ,IMC
+https://bgltv.my.id:443/play/n6Us8gHRUkL9D-1y8qE5T9WbEzXtjnVjFY109sDWh_M/ts
+#EXTINF:-1 group-title="MOVIES" tvg-name="CCM" tvg-logo="https://bgltv.my.id:443/images/4e40fb846bcbf985cc20fe2e4ebbb5a9.png" ,CCM
+https://bgltv.my.id:443/play/n6Us8gHRUkL9D-1y8qE5T6ys-KOGWPQRWGL4jtZX2BY/ts
+#EXTINF:-1 group-title="MOVIES" tvg-name="SCM" tvg-logo="https://bgltv.my.id:443/images/c9a8f294cb2f4c219483444decd49ece.png" ,SCM
+https://bgltv.my.id:443/play/n6Us8gHRUkL9D-1y8qE5T1QfRs9arCLLdzGLwV0aASA/ts
+#EXTINF:-1 group-title="MOVIES" tvg-name="AXN" tvg-logo="https://bgltv.my.id:443/images/88e5a8061b04c3d71f9d2109feaf7a0d.png" ,AXN
+https://bgltv.my.id:443/play/n6Us8gHRUkL9D-1y8qE5T9l8fnEHhg0Chy-J0pADltY/ts
+#EXTINF:-1 group-title="MOVIES" tvg-name="KIX" tvg-logo="https://bgltv.my.id:443/images/51bbff5d53079e4e61ae8922b744783d.png" ,KIX
+https://bgltv.my.id:443/play/n6Us8gHRUkL9D-1y8qE5T47c9KJT1Ltc7Rj3krs41os/ts
+#EXTINF:-1 group-title="MOVIES" tvg-name="WARNER TV" tvg-logo="https://i.ibb.co/qrwpdB3/warner-tv-home-tv.png" ,WARNER TV
+https://bgltv.my.id:443/play/n6Us8gHRUkL9D-1y8qE5TxPmUZ2ujAr3oG-hEZT0HVU/ts
+#EXTINF:-1 group-title="MOVIES" tvg-name="THRILL" tvg-logo="https://i.ibb.co/Lx5mh6X/thrill-home-tv.png" ,THRILL
+https://bgltv.my.id:443/play/n6Us8gHRUkL9D-1y8qE5Twxwd5gBp7BGGZ5yVReAp-M/ts
+#EXTINF:-1 group-title="MOVIES" tvg-name="TVN MOVIES" tvg-logo="https://i.ibb.co/fHfhMfn/tvn-movies-home-tv.png" ,TVN MOVIES
+https://bgltv.my.id:443/play/n6Us8gHRUkL9D-1y8qE5T-IUKBPE6_cF5AbRTThC3pI/ts
+#EXTINF:-1 group-title="MOVIES" tvg-name="GALAXY" tvg-logo="https://i.ibb.co/P4VzF0H/galaxy-home-tv.png" ,GALAXY
+https://bgltv.my.id:443/play/n6Us8gHRUkL9D-1y8qE5T_C9weVr39qCP70u8MFURQ4/ts
+#EXTINF:-1 group-title="MOVIES" tvg-name="GALAXY PREMIUM" tvg-logo="https://i.ibb.co/7gw38Pq/galaxy-premium-home-tv.png" ,GALAXY PREMIUM
+https://bgltv.my.id:443/play/n6Us8gHRUkL9D-1y8qE5T7XzDu1Qmq3KTMNGSTzBNqs/ts
+#EXTINF:-1 group-title="MOVIES" tvg-name="CINEMA WORLD" tvg-logo="https://i.ibb.co/q9ZwqcN/cinemaworld-home-tv.png" ,CINEMA WORLD
+https://bgltv.my.id:443/play/n6Us8gHRUkL9D-1y8qE5Two34iGMDBQN5SPRVINcHjE/ts
+#EXTINF:-1 group-title="MOVIES" tvg-name="CELESTIAL MOVIES" tvg-logo="https://i.ibb.co/C7tHQXY/celestial-movies-home-tv.png" ,CELESTIAL MOVIES
+https://bgltv.my.id:443/play/n6Us8gHRUkL9D-1y8qE5T3evZ1jNHnG8m7-3bB5Umh0/ts
+#EXTINF:-1 group-title="MOVIES" tvg-name="HITS" tvg-logo="https://i.ibb.co/5rB27Sm/hits-home-tv.png" ,HITS
+https://bgltv.my.id:443/play/n6Us8gHRUkL9D-1y8qE5T7QAzoN-Pfs918x5xk9Dlx4/ts
+#EXTINF:-1 group-title="MOVIES" tvg-name="HITS MOVIES" tvg-logo="https://i.ibb.co/T4CMHky/Hits-movies-home-tv.png" ,HITS MOVIES
+https://bgltv.my.id:443/play/n6Us8gHRUkL9D-1y8qE5T4Lelg8RAlkN1JeMURsJeEw/ts
+#EXTINF:-1 group-title="MOVIES" tvg-name="PARAMOUNT ID" tvg-logo="https://i.ibb.co/6byntpL/Paramount-home-tv.png" ,PARAMOUNT ID
+https://bgltv.my.id:443/play/n6Us8gHRUkL9D-1y8qE5T9Hg54LzmTOPkq2xnvdwe3A/ts
+#EXTINF:-1 group-title="MOVIES" tvg-name="STAR MOVIES" tvg-logo="https://i.ibb.co/vXzThc8/star-movies-home-tv.png" ,STAR MOVIES
+https://bgltv.my.id:443/play/n6Us8gHRUkL9D-1y8qE5T7gq4dqrG3jVSnlmcuy9rWs/ts
+#EXTINF:-1 group-title="MOVIES" tvg-name="STAR MOVIES SELECT" tvg-logo="https://i.ibb.co/4jctxxs/str.png" ,STAR MOVIES SELECT
+https://bgltv.my.id:443/play/n6Us8gHRUkL9D-1y8qE5T23RljYXBZgjAtYdqQ0n1EY/ts
+#EXTINF:-1 group-title="MOVIES" tvg-name="&FLIX" tvg-logo="https://i.ibb.co/PGF0yfd/cth.png" ,&FLIX
+https://bgltv.my.id:443/play/n6Us8gHRUkL9D-1y8qE5T0VwB3B6tMYsTWoGFCObw9U/ts
+#EXTINF:-1 group-title="MOVIES" tvg-name="&PRIVE" tvg-logo="https://i.ibb.co/3ppHtjj/prive-home-tv.png" ,&PRIVE
+https://bgltv.my.id:443/play/n6Us8gHRUkL9D-1y8qE5T2Gf9hiGxX-_E3WJDYooPvM/ts
+#EXTINF:-1 group-title="MOVIES" tvg-name="MY CINEMA" tvg-logo="https://i.ibb.co/dgPMHc0/My-cinema-encep.png" ,MY CINEMA
+https://bgltv.my.id:443/play/n6Us8gHRUkL9D-1y8qE5T4iGHNPHoC6uhmRlD4Q1zw8/ts
+#EXTINF:-1 group-title="MOVIES" tvg-name="MY CINEMA ASIA" tvg-logo="https://i.ibb.co/G0chGsR/My-cinema-asia.png" ,MY CINEMA ASIA
+https://bgltv.my.id:443/play/n6Us8gHRUkL9D-1y8qE5T0jvoA4Ql4XQKWEER2QpAVU/ts
+#EXTINF:-1 group-title="MOVIES" tvg-name="MY FAMILY CHANNEL" tvg-logo="https://i.ibb.co/cYC2cmR/My-family-channel.png" ,MY FAMILY CHANNEL
+https://bgltv.my.id:443/play/n6Us8gHRUkL9D-1y8qE5TyZ1deN7nmLMGTKya7mrDDk/ts
+#EXTINF:-1 group-title="MOVIES" tvg-name="BAYWATCH" ,BAYWATCH
+https://bgltv.my.id:443/play/n6Us8gHRUkL9D-1y8qE5T3bVFPvFNbTF5NrOK_rQvhk/ts
+#EXTINF:-1 group-title="Drama" tvg-name="The Good Neighbor (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j8IdKtir1TqzEgh4JO0YAPaUAxG.jpg" ,The Good Neighbor (2022)
+https://bgltv.my.id:443/play/rj8BdJMhSg1HDsGu25FxD-UcY_iBk7NrNXFcnH8kZ-Yc9xL-enL-CTSjRbxKLOaD
+#EXTINF:-1 group-title="Drama" tvg-name="Spiderhead (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hTK0J9SGPLSTFwcbU0ELlJsnAY.jpg" ,Spiderhead (2022)
+https://bgltv.my.id:443/play/rj8BdJMhSg1HDsGu25FxDx6G7e_AzmKheb66i8pqiifITGPX8qTb69u1eqCISd5U
+#EXTINF:-1 group-title="Sci-Fi" tvg-name="Spiderhead (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hTK0J9SGPLSTFwcbU0ELlJsnAY.jpg" ,Spiderhead (2022)
+https://bgltv.my.id:443/play/rj8BdJMhSg1HDsGu25FxDx6G7e_AzmKheb66i8pqiifITGPX8qTb69u1eqCISd5U
+#EXTINF:-1 group-title="Action" tvg-name="Blowback (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/87VZeYnyNFQrXz6d6bbU5tOXQ88.jpg" ,Blowback (2022)
+https://bgltv.my.id:443/play/rj8BdJMhSg1HDsGu25FxD3c4qygQyj0m3Yloh2cp01BusxSViwpOF6hcvxStG5M_
+#EXTINF:-1 group-title="Thriller" tvg-name="Blowback (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/87VZeYnyNFQrXz6d6bbU5tOXQ88.jpg" ,Blowback (2022)
+https://bgltv.my.id:443/play/rj8BdJMhSg1HDsGu25FxD3c4qygQyj0m3Yloh2cp01BusxSViwpOF6hcvxStG5M_
+#EXTINF:-1 group-title="Action" tvg-name="Iron Man (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/78lPtwv72eTNqFW9COBYI0dWDJa.jpg" ,Iron Man (2008)
+https://bgltv.my.id:443/play/rj8BdJMhSg1HDsGu25FxD_uCxNo8kjvrSooWrMSy2v2Z4ckDDNNHcNyTvkXUiILM
+#EXTINF:-1 group-title="Sci-Fi" tvg-name="Iron Man (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/78lPtwv72eTNqFW9COBYI0dWDJa.jpg" ,Iron Man (2008)
+https://bgltv.my.id:443/play/rj8BdJMhSg1HDsGu25FxD_uCxNo8kjvrSooWrMSy2v2Z4ckDDNNHcNyTvkXUiILM
+#EXTINF:-1 group-title="Action" tvg-name="Nobody (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oBgWY00bEFeZ9N25wWVyuQddbAo.jpg" ,Nobody (2021)
+https://bgltv.my.id:443/play/rj8BdJMhSg1HDsGu25FxD3SxaZFCXvHyyfwwdFGTXVVwAb4fMeW7rIBMZP9bEyVg
+#EXTINF:-1 group-title="Thriller" tvg-name="Nobody (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oBgWY00bEFeZ9N25wWVyuQddbAo.jpg" ,Nobody (2021)
+https://bgltv.my.id:443/play/rj8BdJMhSg1HDsGu25FxD3SxaZFCXvHyyfwwdFGTXVVwAb4fMeW7rIBMZP9bEyVg
