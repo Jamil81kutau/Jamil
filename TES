@@ -79,7 +79,11 @@ http://playlist.urfan.web.id/uq2663/h/h22/01.m3u8
 http://210.210.155.35/uq2663/h/h191/index.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://127.0.0.1/" ,TOON KIDZ
 http://210.210.155.35/session/e3b2c16e-ab22-11ec-a75d-c81f66f89318/x6bnqe/s/s81/01.m3u8
-#EXTINF:0 group-title="KIDS" ,ZOOMOO
+#EXTINF:-1 group-title="KIDS" ,HOREE TV
+http://tvn.x10.mx/vidio/master-6.m3u8
+#EXTINF:-1 group-title="KIDS" ,HIP HIP HORE
+http://tvn.x10.mx/vidio/master-4.m3u8
+#EXTINF:-1 group-title="KIDS" ,ZOOMOO
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="LOKAL" tvg-logo="http://127.0.0.1/" ,ANTV
 http://playlist.urfan.web.id/qwr9ew/s/s07/01.m3u8
