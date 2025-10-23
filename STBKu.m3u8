@@ -663,14 +663,9 @@ https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 
 ##EXTINF:-1 group-title="♾RELIGION♾" tvg-logo="https://i.pinimg.com/236x/c5/b5/6f/c5b56f6a7fe41597d4e88560597466d6.jpg",SURAU TV
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/fc/8f/e2/fc8fe25e6ad8cbf4247f64fd433f283d.jpg" group-title="♾RELIGION♾",REFORMED21
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d412681b35e04498a2f9c4abdf327902:0da82dde987976fa3b3bc14943ef2fae
-https://atemeshield1-voe.sysln.id/live/eds/Reformed21HD/mpd/Reformed21HD.mpd
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ec/e6/db/ece6dbcc01eb576d84b5e96215faf5a7.jpg" group-title="♾RELIGION♾",CATHOLIC TV
-https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master_5.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f3/fa/87/f3fa874968c9c81f6dce363cd8371924.jpg" group-title="♾RELIGION♾",EWTN
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
