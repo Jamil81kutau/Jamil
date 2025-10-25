@@ -1137,16 +1137,6 @@ https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=971ebbe2d887476398e97c37e0c5c591:472aa631b1e671070a4bf198f43da0c7
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_fashiontvhd.mpd
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/5f/13/a8/5f13a8a026708128f852e527ca45baca.jpg" group-title="》FAS_&_LIFE", WARNING ⚠️
-https://raw.githubusercontent.com/Cutsiffa/Movyyy/main/5starmax.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/5f/13/a8/5f13a8a026708128f852e527ca45baca.jpg" group-title="》FAS_&_LIFE", WARNING ⚠️
-https://raw.githubusercontent.com/Cutsiffa/Movyyy/main/Fxx.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/5f/13/a8/5f13a8a026708128f852e527ca45baca.jpg" group-title="》FAS_&_LIFE", WARNING ⚠️
-https://raw.githubusercontent.com/Cutsiffa/Movyyy/main/Horor.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/5f/13/a8/5f13a8a026708128f852e527ca45baca.jpg" group-title="》FAS_&_LIFE", WARNING ⚠️
-https://raw.githubusercontent.com/Cutsiffa/Movyyy/main/Paramount.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/5f/13/a8/5f13a8a026708128f852e527ca45baca.jpg" group-title="》FAS_&_LIFE", WARNING ⚠️
-https://raw.githubusercontent.com/Cutsiffa/Movyyy/main/Fs.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/83/ba/0d/83ba0daf4174e05ba3684027b32a5022.jpg" group-title="》FAS_&_LIFE", Fashion TR
 http://46.249.95.140:8081/hls/data.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/38/dc/c5/38dcc553fb5c7974171db61de84f1bd5.jpg" group-title="》FAS_&_LIFE",4K TRAVEL TV
