@@ -186,11 +186,11 @@ https://stream-cubmu.adptv.workers.dev/f9e0117d42bb42a280d7a0063adcd111.mpd?src=
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages///png-clipart-banana-product-design-logo-banana-food-text.png" group-title="INDONESIA",!@PLAYLIST FREE
 https://adp-premium.my.id/1adptv1/dailymotion.php?id=x9271g4&type=m3u8
 #EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/rcti.png" group-title="INDONESIA",RCTI (V+)
-https://liveplus.rctiplus.id/RTMP-IN.m3u8#EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/mnctv.png" group-title="INDONESIA",MNCTV (V+)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c3004565365a42d08e3bde39a516d64e:dbfdc0967cfbbed01dba730c99d9c14a
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
+#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 #EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/GTV.png" group-title="INDONESIA",GTV (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
