@@ -186,19 +186,31 @@ https://stream-cubmu.adptv.workers.dev/f9e0117d42bb42a280d7a0063adcd111.mpd?src=
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages///png-clipart-banana-product-design-logo-banana-food-text.png" group-title="INDONESIA",!@PLAYLIST FREE
 https://adp-premium.my.id/1adptv1/dailymotion.php?id=x9271g4&type=m3u8
 #EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/rcti.png" group-title="INDONESIA",RCTI (V+)
-https://makan.nasiuduk.workers.dev/db2f051f22424ff5be68b9c68e78b335.mpd?src=aHR0cHM6Ly9kMnh6MnY1d3V2Z3VyNi5jbG91ZGZyb250Lm5ldC9vdXQvdjEvOTk3Y2U4NzY3YjYwNGZhZTlmY2UwNTM3OWIzYjhiM2EvaW5kZXgubXBk&token=c1a7e16ee70774c7796f34fa2d424badb687380c82a030479c61f80240586b61
-#EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/mnctv.png" group-title="INDONESIA",MNCTV (V+)
-https://makan.nasiuduk.workers.dev/2b02a755e94a4b189e3806abdaee5380.mpd?src=aHR0cHM6Ly9kMnh6MnY1d3V2Z3VyNi5jbG91ZGZyb250Lm5ldC9vdXQvdjEvZDZiMDI2YWQ1MGYxNGI3ZjlhZjVkZGQ1NDUwMDA3ZDQvaW5kZXgubXBk&token=c1a7e16ee70774c7796f34fa2d424badb687380c82a030479c61f80240586b61
+https://liveplus.rctiplus.id/RTMP-IN.m3u8#EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/mnctv.png" group-title="INDONESIA",MNCTV (V+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3004565365a42d08e3bde39a516d64e:dbfdc0967cfbbed01dba730c99d9c14a
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
 #EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/GTV.png" group-title="INDONESIA",GTV (V+)
-https://makan.nasiuduk.workers.dev/379b40d74f4e4fce8d118302002bdbfb.mpd?src=aHR0cHM6Ly9kMnRqeXB4eHk3Njlmbi5jbG91ZGZyb250Lm5ldC9vdXQvdjEvYjhiOWIxZDVmODBmNDU2NDliNGEzNjE5MjkxNTUxYWIvaW5kZXgubXBk&token=c1a7e16ee70774c7796f34fa2d424badb687380c82a030479c61f80240586b61
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=036e85de0bb448eeb21d39ab300da48e:4c6f9b15dfab2a169b2b78a498c4d77d
+https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd|referer=https://www.visionplus.id/
 #EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/inews.png" group-title="INDONESIA",iNews (V+)
-https://makan.nasiuduk.workers.dev/5b26b6e987374fb6b0f0271ee6ba0ce6.mpd?src=aHR0cHM6Ly9kMnRqeXB4eHk3Njlmbi5jbG91ZGZyb250Lm5ldC9vdXQvdjEvN2IwNDA0Y2Q2YThhNGE5MDgxMjNmMTA3NzQ4NTRlNDYvaW5kZXgubXBk&token=c1a7e16ee70774c7796f34fa2d424badb687380c82a030479c61f80240586b61
-#EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/indosiar.png" group-title="INDONESIA" resolution="1280@720",INDOSIAR (Dens)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ee7df15ff584967a3eb7b885bafc71e:9a297bf2200eee7dee21b9ace9f57c77
+https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd|referer=https://www.visionplus.id/#EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/indosiar.png" group-title="INDONESIA" resolution="1280@720",INDOSIAR (Dens)
 https://makan.nasiuduk.workers.dev/9a5b16f84fce45519c5b85f2e5caf2a6.m3u8?src=aHR0cDovL29wLWdyb3VwMS1zd2lmdHNlcnZlaGQtMS5kZW5zLnR2L2gvaDIzNS8wMi5tM3U4&token=c1a7e16ee70774c7796f34fa2d424badb687380c82a030479c61f80240586b61
 #EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/sctv.png" group-title="INDONESIA" resolution="1280@720",SCTV (Dens)
 https://makan.nasiuduk.workers.dev/787dab87ce5f49bbb8df4b27fa4be5c5.m3u8?src=aHR0cDovL29wLWdyb3VwMS1zd2lmdHNlcnZlaGQtMS5kZW5zLnR2L2gvaDIxNy8wMi5tM3U4&token=c1a7e16ee70774c7796f34fa2d424badb687380c82a030479c61f80240586b61
 #EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/antv.png" group-title="INDONESIA",ANTV V+
-https://makan.nasiuduk.workers.dev/26aa6c00bc754ad7bd952d14b20e5739.mpd?src=aHR0cHM6Ly9kODRxN253NHFmM2ozLmNsb3VkZnJvbnQubmV0L291dC92MS8wYTZjNmIxNTM0NDQ0YWI0YmQ5MDNhZjg3NjFlNjc0Ny9pbmRleC5tcGQ&token=c1a7e16ee70774c7796f34fa2d424badb687380c82a030479c61f80240586b61
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=251c384e846841abafa1f7c723d57e66:e45b06a38cd261b74c5160f0912c042f
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://fta1-cdn-flr.visionplus.id/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
+https://av-ch-cdn.mncnow.id/live/eds/ANTV/sa_dash/ANTV.mpd
 #EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/tvone.png" group-title="INDONESIA" resolution="480@360",tvOne (Dens)
 https://makan.nasiuduk.workers.dev/b5802e0836a84cf2bfaa6ecb08316dd2.m3u8?src=aHR0cDovL29wLWdyb3VwMS1zd2lmdHNlcnZlaGQtMS5kZW5zLnR2L2gvaDQwLzAyLm0zdTg&token=c1a7e16ee70774c7796f34fa2d424badb687380c82a030479c61f80240586b61
 #EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/mdtv.png" group-title="INDONESIA" resolution="1280@720",MDTV
