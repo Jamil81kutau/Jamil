@@ -750,8 +750,9 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/c2/d3/56/c2d356f8a563066d59589208c715fadd.jpg" group-title="🔵KIDSTV",CARTON NETWORK
 https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/fb/f8/49/fbf849605237ee56c69a37510e215ea8.jpg" group-title="🔴⚪NASIONAL" tvg-referrer="https://www.rctiplus.com/" tvg-agent="Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206",RCTI SD
-https://liveplus.rctiplus.id/RTMP-IN.m3u8
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000127/1024.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/4b/75/e4/4b75e42da25fdea747d91db85ac392b6.jpg" group-title="🔴⚪NASIONAL" tvg-referrer="https://www.rctiplus.com/" tvg-agent="Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206",GLOBALTV SD
+http://103.172.71.153:9981/stream/channelid/87868683?profile=pass
 https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd|referer=https://www.visionplus.id/
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/82/82/02/828202970e72c7c33bbb405a0bec4083.jpg" group-title="🔴⚪NASIONAL" tvg-referrer="https://www.rctiplus.com/" tvg-agent="android-R+",ANTV HD
 https://av-ch-cdn.mncnow.id/live/eds/ANTV/sa_dash/ANTV.mpd
@@ -788,7 +789,8 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/3c/73/3a/3c733ad22f78ae602ceed5158f897ec9.jpg" group-title="🔴⚪NASIONAL" tvg-agent="Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36",MNCTV SD
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/bf/88/3c/bf883c51dfcb53f0132cd8997f7b0377.jpg" group-title="🔴⚪NASIONAL" tvg-agent="Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36",INEWS SD
-https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd|referer=https://www.visionplus.id/
+https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
+http://103.172.71.153:9981/stream/channelid/1431393783?profile=pass
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ff/58/e2/ff58e2b165690f6c99ab75945ac76539.jpg" group-title="🔴⚪NASIONAL" tvg-agent="ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1",KOMPASTV
 https://atemeshield1-voe.sysln.id/live/eds/KOMPASTVHD/mpd/KOMPASTVHD.mpd
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/87/93/6a/87936aade665823b0143f7a1e1fc2ec5.jpg" group-title="🔴⚪NASIONAL" tvg-agent="ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1",JGN INDO
@@ -800,8 +802,12 @@ https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/fb/f8/49/fbf849605237ee56c69a37510e215ea8.jpg" group-title="🔴⚪NASIONAL",RCTI
 https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/2b/77/d7/2b77d79d4a511b3ba7ada19a775426f8.jpg" group-title="🔴⚪NASIONAL",TRANSTV HD
+https://fta4-cdn-flr.visionplus.id/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000009/1024.m3u8
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/6f/02/9a/6f029a90f14d30427266dcd5e380130d.jpg" group-title="🔴⚪NASIONAL",TRANS7 HD
+https://fta2-cdn-flr.visionplus.id/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000008/1024.m3u8
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/4f/c2/a5/4fc2a559fcc621321b7a329e42ccef64.jpg" group-title="🔴⚪NASIONAL",NET TV
 http://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=NET.|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
