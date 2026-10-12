@@ -1,519 +1,179 @@
 #EXTM3U
-#EXTINF:0,AMBIL AJA KALAU MAU BUAT PL
-#EXTVLCOPT:network-caching=1000
-https://pastebin.com/raw/AMBIL%20AJA%20KALAU%20MAU%20BUAT%20PL
-#EXTINF:0,KITA PUN COMOT SANA SINI ---INTINYA SALING BERBAGI --  YANG PENTING JANGAN KOAR KOAR
-#EXTVLCOPT:network-caching=1000
-https://pastebin.com/raw/KITA%20PUN%20COMOT%20SANA%20SINI%20---INTINYA%20SALING%20BERBAGI%20--%20%20YANG%20PENTING%20JANGAN%20KOAR%20KOAR
-#EXTINF:0,Last Update : 12 - 09 - 2026
-#EXTVLCOPT:network-caching=1000
-https://pastebin.com/raw/Last%20Update%20:%2012%20-%2009%20-%202026
-#EXTINF:0,======================================== event ====================================
-#EXTVLCOPT:network-caching=1000
-https://pastebin.com/raw/========================================%20event%20====================================
-#EXTINF:0,<=================== Channel Indonesia =============================>
-#EXTVLCOPT:network-caching=1000
-https://pastebin.com/raw/%3C===================%20Channel%20Indonesia%20=============================%3E
-#EXTINF:0,Indosiar HD
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-origin=https://www.vidio.com
-#EXTVLCOPT:http-user-agent=lgadrm.mpdplayer/v1;(Linux; Android 16; id; tfjGCdW)
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#EXTVLCOPT:http-referrer=http://www.vidio.com/
-#EXTVLCOPT:http-origin=http://www.vidio.com
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-origin=https://www.vidio.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://vidsemar.pages.dev/terraluna2/205.mpd
-#EXTINF:0,SCTV HD
-#EXTVLCOPT:http-user-agent=lgadrm.mpdplayer/v1;(Linux; Android 16; id; tfjGCdW)
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-origin=https://www.vidio.com
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-origin=https://www.vidio.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://vidsemar.pages.dev/terraluna2/204.mpd
-#EXTINF:892,MNC TV HD
-#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#EXTVLCOPT:network-caching=1000
-https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=mnctv
-#EXTINF:0,MNC TV V+
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
-#EXTINF:0,RCTI (HD)
-#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#EXTVLCOPT:network-caching=1000
-https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti
-#EXTINF:0,RCTI V+
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/ac934bd649dc47f699f793634de01635/index.mpd
-#EXTINF:0,GTV (HD)
-#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#EXTVLCOPT:network-caching=1000
-https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=gtv
-#EXTINF:0,GTV V+
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
-#EXTINF:0, Trans 7 HD
-#EXTVLCOPT:http-user-agent=lgadrm.mpdplayer/v1;(Linux; Android 16; id; tfjGCdW)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Channel Indonesia",Trans 7 HD
 https://green-night-d2b4.iontv.workers.dev/trans7.m3u8
-#EXTVLCOPT:network-caching=1000
-https://live.cnnindonesia.com/trans7/smil:trans7/chunklist_w26855752592_b744100_sleng.m3u8
-#EXTINF:0, Trans 7 V+
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
-#EXTINF:0,fl_lossy - c_fill,f_auto,q_auto:best,w_640/v1634025439/01gpdtmzpk76vm8kywvrjtfb80.jpg" group-title="Channel Indonesia", Trans TV HD
-#EXTVLCOPT:http-user-agent=lgadrm.mpdplayer/v1;(Linux; Android 16; id; tfjGCdW)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Channel Indonesia",Trans TV HD
 https://green-night-d2b4.iontv.workers.dev/transtv.m3u8
-#EXTVLCOPT:network-caching=1000
-https://live.cnnindonesia.com/transtv/smil:transtv/chunklist_w26855752598_b744100_sleng.m3u8
-#EXTINF:0,fl_lossy - c_fill,f_auto,q_auto:best,w_640/v1634025439/01gpdtmzpk76vm8kywvrjtfb80.jpg" group-title="Channel Indonesia", Trans TV V+
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
-#EXTINF:0,ANTV HD
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#EXTVLCOPT:http-referrer=http://www.vidio.com/
-#EXTVLCOPT:http-origin=http://www.vidio.com
-#EXTVLCOPT:network-caching=1000
-https://beetv.my.id/xstreamx/vd.m3u8?ch=antv
-#EXTINF:0,ANTV V+
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
-#EXTINF:0,fl_lossy - c_fill,f_auto,q_auto:best,w_640/v1634025439/01hhk6wf766ctnymbqpngh5sh5.png" group-title="Channel Indonesia", MOJI TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Channel Indonesia",MOJI TV
 https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8
-#EXTINF:0,TV ONE
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://op-flashcon-digdayahd-1.dens.tv/h/h40/index.m3u8
-#EXTINF:0, BIOSKOP INDONESIA
-#EXTVLCOPT:http-user-agent=lgadrm.mpdplayer/v1;(Linux; Android 16; id; tfjGCdW)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Channel Indonesia",BIOSKOP INDONESIA
 http://202.150.161.212:5000/live/channel35/playlist.m3u8
-#EXTINF:0,MDTV HD
-#EXTVLCOPT:http-user-agent=lgadrm.mpdplayer/v1;(Linux; Android 16; id; tfjGCdW)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Channel Indonesia",MDTV HD
 http://202.150.161.212:5000/live/channel31/playlist.m3u8
-#EXTINF:0,KOMPAS TV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-#EXTVLCOPT:network-caching=1000
-https://op-flashcon-digdayahd-1.dens.tv/s/s104/index.m3u8
-#EXTINF:0, iNews
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTVLCOPT:http-user-agent=lgadrm.mpdplayer/v1;(Linux; Android 16; id; tfjGCdW)
-#EXTVLCOPT:network-caching=1000
-https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
-#EXTINF:0, ANANDA CHANNEL
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Channel Indonesia",ANANDA CHANNEL
 https://vodcdn.bamboo-cloud.com/livehls/68ef86320630444b1f796875/index-f2-v1-a1.m3u8
-#EXTINF:0, KIDS TV
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9041826689ae4f9c9619576d411fa989/index.mpd
-#EXTINF:0, NICK JR
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/27163af9499b4bcca2da96677b158efe/index.mpd
-#EXTINF:0, FICOM TV
-#EXTVLCOPT:http-referrer=https://tv.garden/
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Channel Indonesia",FICOM TV
 https://v3.siar.us/ficomchannel/live/playlist.m3u8
-#EXTINF:0, STARA TV Majalengka
-#EXTVLCOPT:http-referrer=https://tv.garden/
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Channel Indonesia",STARA TV Majalengka
 https://stream.staratv.id/hls/stream.m3u8
-#EXTINF:0, STARA TV Jakarta
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Channel Indonesia",STARA TV Jakarta
 https://jakarta.staratv.id/hls/stream.m3u8
-#EXTINF:0, STARA TV Bandung
-#EXTVLCOPT:http-referrer=https://tv.garden/
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Channel Indonesia",STARA TV Bandung
 https://bandung.staratv.id/hls/0/stream.m3u8
-#EXTINF:0, STARA TV Bojonegoro
-#EXTVLCOPT:http-referrer=https://tv.garden/
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Channel Indonesia",STARA TV Bojonegoro
 https://bojonegoro.staratv.id/hls/stream.m3u8
-#EXTINF:0, STARA TV Parahyangan
-#EXTVLCOPT:http-referrer=https://tv.garden/
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Channel Indonesia",STARA TV Parahyangan
 https://parahyangan.staratv.id/hls/0/stream.m3u8
-#EXTINF:0, STARA TV Cianjur
-#EXTVLCOPT:http-referrer=https://tv.garden/
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Channel Indonesia",STARA TV Cianjur
 https://cianjur.staratv.id/hls/0/stream.m3u8
-#EXTINF:0, STARA TV Malang
-#EXTVLCOPT:http-referrer=https://tv.garden/
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Channel Indonesia",STARA TV Malang
 https://malang.staratv.id/hls/0/stream.m3u8
-#EXTINF:0, PUJA TV ACEH
-#EXTVLCOPT:http-referrer=https://tv.garden/
-#EXTVLCOPT:network-caching=1000
-https://pujatv.siar.us/live/pujatv.m3u8
-#EXTINF:0, MIC TV
-#EXTVLCOPT:http-referrer=https://tv.garden/
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Channel Indonesia",MIC TV
 https://mic.siar.us/mic/live/mic_720p.m3u8
-#EXTINF:0, Sangaji TV
-#EXTVLCOPT:http-referrer=https://tv.garden/
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Channel Indonesia",Sangaji TV
 https://cdn.adyadigitalteknologi.com:8090/vod/relay.m3u8
-#EXTINF:0, Salira TV
-#EXTVLCOPT:http-referrer=https://tv.garden/
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Channel Indonesia",Salira TV
 https://live.salira.tv/p/3870/hybrid/play.m3u8
-#EXTINF:0, MQTV
-#EXTVLCOPT:http-referrer=https://tv.garden/
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Channel Indonesia",MQTV
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/chunklist_w107392989.m3u8
-#EXTINF:0,Jowo Channel
-#EXTVLCOPT:http-referrer=https://www.dens.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Channel Indonesia",Jowo Channel
 http://khano.nng.cloudns.us/live/m3u8/id/1de333734b1b7e0.m3u8
-#EXTINF:0, BTV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Channel Indonesia",BTV
 https://lnd0t3b922.tenbytecdn.com/ta-sg1/90369cf5-6ac2-411d-b3d0-15fae10a2e2c/720p/index.m3u8
-#EXTINF:0, CarubanTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Channel Indonesia",CarubanTV
 https://stream.carubantv.id/hls/1/stream.m3u8?cachebust=9cd08107
-#EXTINF:0, Sampit TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Channel Indonesia",Sampit TV
 https://e.siar.us/live/sampit-tv.m3u8
-#EXTINF:0, dTVi
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
-#EXTVLCOPT:network-caching=1000
-https://e.siar.us/live/dtvi.m3u8
-#EXTINF:0, Berita Satu
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Channel Indonesia",Berita Satu
 http://khano.nng.cloudns.us/live/m3u8/id/270f72deeb5843e.m3u8
-#EXTINF:0, BN Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Channel Indonesia",BN Channel
 http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8
-#EXTINF:0, CNBC Indonesia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://video.detik.com/
-#EXTVLCOPT:network-caching=1000
-https://video.detik.com/livecnbc/smil:cnbctv/chunklist_w1279679883_b384000_sleng.m3u8
-#EXTINF:0, CNN Indonesia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://video.detik.com/
-#EXTVLCOPT:network-caching=1000
-https://video.detik.com/livecnn/smil:cnntv/chunklist_w268557525_b384000_sleng.m3u8
-#EXTINF:0, Garuda TV
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Channel Indonesia",Garuda TV
 https://hgmtv.com:19360/garudatvlivestreaming/1080p.m3u8
-#EXTINF:0, Nusantara TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Channel Indonesia",Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
-#EXTINF:0,RTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Channel Indonesia",RTV
 https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
-#EXTINF:0,Hanacaraka TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:network-caching=1000
-https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/index.mpd
-#EXTINF:0,Dhoho TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Channel Indonesia",Dhoho TV
 https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
-#EXTINF:0,Sakti TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Channel Indonesia",Sakti TV
 https://selaparangtv.siar.us/live/selaparangtv.m3u8
-#EXTINF:0, JITV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Channel Indonesia",JITV
 https://mam.jogjaprov.go.id:1937/tv/jitv/chunklist_w163357330.m3u8
-#EXTINF:0,Madu TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Channel Indonesia",Madu TV
 https://re1.siar.us/madutv/hd720/playlist.m3u8
-#EXTINF:0,Bandung TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Channel Indonesia",Bandung TV
 http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
-#EXTINF:0,TATV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Channel Indonesia",TATV
 https://tatv.siar.us/tatv/live.sdp/playlist.m3u8
-#EXTINF:0,Banjar TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Channel Indonesia",Banjar TV
 https://banjartv.siar.us/banjartv/live/playlist.m3u8
-#EXTINF:0,Banten TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Channel Indonesia",Banten TV
 https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
-#EXTINF:0,BMS TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Channel Indonesia",BMS TV
 https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8
-#EXTINF:0,Dhamma TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Channel Indonesia",Dhamma TV
 https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
-#EXTINF:0,RCTV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Channel Indonesia",RCTV
 https://v10.siar.us/rctv/live/playlist.m3u8
-#EXTINF:0,Bali TV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:network-caching=1000
-https://d2tjypxxy769fn.cloudfront.net/out/v1/44a2d1ab71a740babb233cf14832c59d/index.mpd
-#EXTINF:0,Dhoho TV- Kediri
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Channel Indonesia",Dhoho TV- Kediri
 https://dhohotv.siar.us/dhohotv/live/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0,TV Tabalong
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Channel Indonesia",TV Tabalong
 https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
-#EXTINF:0,Bungo TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Channel Indonesia",Bungo TV
 https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
-#EXTINF:0,=============================================== TRANSVISION =========================================
-#EXTVLCOPT:network-caching=1000
-https://pastebin.com/raw/===============================================%20TRANSVISION%20=========================================
-#EXTINF:0, Trans TV
-#EXTVLCOPT:network-caching=1000
-https://cdnjktbpid37.cubmu.com/riutx01-22b1f3c4ac0e47a0ed0e3305661027ee/dash/VHJhbnNUVg/manifest.mpd?signature=OWJhOWI4OWY2ZWJmNzgwZmFiYTM2M2FkZGI2MzFkMDM=&time=15250366075
-#EXTINF:0, Trans 7
-#EXTVLCOPT:network-caching=1000
-https://cdnjktbpid37.cubmu.com/riutx01-22b1f3c4ac0e47a0ed0e3305661027ee/dash/VFJBTlM3LW15/manifest.mpd?signature=YmYwNjBmZDliMmQwZGQ2NmVjNWM1NzUyMWM1ZWEyNWU=&time=15250126226
-#EXTINF:0, RCTI
-#EXTVLCOPT:network-caching=1000
-https://cdnjktbpid37.cubmu.com/riutx01-22b1f3c4ac0e47a0ed0e3305661027ee/dash/UkNUSS1DaGFubmVs/manifest.mpd?signature=YWY1ZmYxMjc2NTk4NzhkMjA0NGRlMGRlZTBkYmQyMWM=&time=15252521500
-#EXTINF:0, Bioskop Indonesia
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Transvision",Bioskop Indonesia
 http://202.150.161.212:5000/live/channel35/playlist.m3u8
-#EXTINF:0, WB TV
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Transvision",WB TV
 http://202.150.161.212:5000/live/channel29/playlist.m3u8
-#EXTINF:0, TVN Movies
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Transvision",TVN Movies
 http://202.150.161.212:5000/live/channel30/playlist.m3u8
-#EXTINF:0, MDTv
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Transvision",MDTv
 http://202.150.161.212:5000/live/channel31/playlist.m3u8
-#EXTINF:0, Arirang
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Transvision",Arirang
 http://202.150.161.212:5000/live/channel33/playlist.m3u8
-#EXTINF:0, U Channel
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Transvision",U Channel
 http://202.150.161.212:5000/live/channel37/playlist.m3u8
-#EXTINF:0, JTV
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Transvision",JTV
 http://202.150.161.212:5000/live/channel38/playlist.m3u8
-#EXTINF:0, MOJI Tv
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Transvision",MOJI Tv
 http://202.150.161.212:5000/live/channel39/playlist.m3u8
-#EXTINF:0, France 24
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Transvision",France 24
 http://202.150.161.212:5000/live/channel21/playlist.m3u8
-#EXTINF:0, NHK CHN
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Transvision",NHK CHN
 http://202.150.161.212:5000/live/channel22/playlist.m3u8
-#EXTINF:0, Cartoon Network
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Transvision",Cartoon Network
 http://202.150.161.212:5000/live/channel27/playlist.m3u8
-#EXTINF:0, Channel 24
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Transvision",Channel 24
 http://202.150.161.212:5000/live/channel24/playlist.m3u8
-#EXTINF:0, Channel 25
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Transvision",Channel 25
 http://190.60.37.154:45000/play/a03o/index.m3u8
-#EXTINF:0, Channel 26
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Transvision",Channel 26
 http://190.60.37.154:45000/play/a03n/index.m3u8
-#EXTINF:0, Channel 28
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Transvision",Channel 28
 http://misterich.megatv.fun/iptv/CVHTUN2FGZ4TTVYBXGA5MRPN/31048/index.m3u8
-#EXTINF:0, Channel 34
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Transvision",Channel 34
 https://cdn.telecloud.tv/CH3223/index.m3u8
-#EXTINF:0, Channel 36
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Transvision",Channel 36
 http://190.60.37.154:45000/play/a03o/index.m3u8
-#EXTINF:0, Channel 40
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Transvision",Channel 40
 https://cdn.telecloud.tv/CH3223/index.m3u8
-#EXTINF:0,================================================ HBO =====================================================
-#EXTVLCOPT:network-caching=1000
-https://pastebin.com/raw/================================================%20HBO%20=====================================================
-#EXTINF:0,HBO 2
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="HBO Group",HBO 2
 http://185.227.34.179:8080/hbo-2-hd/index.m3u8
-#EXTINF:0,HBO 3
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="HBO Group",HBO 3
 http://185.227.34.179:8080/hbo-3-hd/index.m3u8
-#EXTINF:0,HBO
-#EXTVLCOPT:http-referrer=https://maxstream.tv/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="HBO Group",HBO
 http://141.94.193.53/HBO_HD/index.m3u8
-#EXTINF:0,HBO Hits
-#EXTVLCOPT:http-referrer=https://maxstream.tv/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://cdnbal1.indihometv.com/atm/DASH/hbohits/manifest.mpd
-#EXTVLCOPT:network-caching=1000
-https://cdnbal1.indihometv.com/atm/DASH/hbohits/hbohits-avc1_2500000=7-3277707030000000.mpd
-#EXTINF:0,HBO Family
-#EXTVLCOPT:http-referrer=https://maxstream.tv/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-http://104.248.13.17:7080/play/a05d/index.m3u8
-#EXTINF:0,HBO Signature
-#EXTVLCOPT:http-referrer=https://maxstream.tv/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-http://104.248.13.17:7080/play/a019/index.m3u8
-#EXTINF:0,Cinemax
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="HBO Group",Cinemax
 http://141.94.193.53/Cinemax_HD/index.m3u8
-#EXTINF:0,=========================================== sports ===============================================
-#EXTVLCOPT:network-caching=1000
-https://pastebin.com/raw/===========================================%20sports%20===============================================
-#EXTINF:0,SpoTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cignalplay.com/
-#EXTVLCOPT:http-origin=https://cignalplay.com
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Sports",SpoTV
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
-#EXTINF:0,SpoTV 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cignalplay.com/
-#EXTVLCOPT:http-origin=https://cignalplay.com
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Sports",SpoTV 2
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
-#EXTINF:0,FOX SPORTS PREMIUM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Sports",FOX SPORTS PREMIUM
 http://195.178.110.110/foxsportspremium/index.m3u8
-#EXTINF:0, FOX SPORTS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Sports",FOX SPORTS
 http://195.178.110.110/foxsports/index.m3u8
-#EXTINF:0, FOX SPORTS 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Sports",FOX SPORTS 2
 http://195.178.110.110/foxsports2/index.m3u8
-#EXTINF:0, FOX SPORTS 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Sports",FOX SPORTS 3
 http://195.178.110.110/foxsports3/index.m3u8
-#EXTINF:0,BEIN SPORTS 1 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Sports",BEIN SPORTS 1
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
-#EXTINF:0,BEIN SPORTS 2 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Sports",BEIN SPORTS 2
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
-#EXTINF:0,BEIN SPORTS 3 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Sports",BEIN SPORTS 3
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-#EXTINF:0,BEIN SPORTS EXTRA ID
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Sports",BEIN SPORTS EXTRA ID
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
-#EXTINF:0,TNT SPORTS
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Sports",TNT SPORTS
 http://168.196.127.137:6001/play/a05t/index.m3u8
-#EXTINF:0,TYC SPORTS
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Sports",TYC SPORTS
 http://45.224.96.220:18000/play/a07y/index.m3u8
-#EXTINF:0,DAZN 1
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Sports",DAZN 1
 http://50.7.120.34:8080/DAZN1/index.m3u8
-#EXTINF:0,DAZN 2
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Sports",DAZN 2
 http://23.237.104.106:8080/DAZN_2/index.m3u8
-#EXTINF:0,DAZN 3
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Sports",DAZN 3
 http://23.237.104.106:8080/DAZN_3/index.m3u8
-#EXTINF:0,DAZN 4
-#EXTVLCOPT:network-caching=1000
-http://23.237.104.106:8080/DAZN_4/index.m3u8
-#EXTINF:0,DAZN 5
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Sports",DAZN 5
 http://23.237.104.106:8080/DAZN_5/index.m3u8
-#EXTINF:0,============================== TV IP TEST ======================================================================
-#EXTVLCOPT:network-caching=1000
-https://pastebin.com/raw/==============================%20TV%20IP%20TEST%20======================================================================
-#EXTINF:0, TEST 1
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="IP-TV",TEST 1
 http://209.14.98.47:8000/play/a0x2/index.m3u8
-#EXTINF:0, TEST 2
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="IP-TV",TEST 2
 https://janya-digimix.akamaized.net/vglive-sk-234616/indonesia/ngrp:angelindonesia_all/playlist.m3u8
-#EXTINF:0, TEST 3
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="IP-TV",TEST 3
 http://23.239.31.26:8989/amc/index.m3u8
-#EXTINF:0, TEST 4
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="IP-TV",TEST 4
 http://23.239.31.26:8989/amc/index.m3u8
-#EXTINF:0, Asian Games 2026 1
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Asian Games 2026",Asian Games 2026 1
 https://tglmp03.akamaized.net/out/v1/7cfe6d15c127407588568af9f4574a21/manifest.mpd
-#EXTINF:0, Asian Games 2026 2
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Asian Games 2026",Asian Games 2026 2
 https://tglmp01.akamaized.net/out/v1/5fa3fdc8720b4317b14df756e81b78c1/manifest.mpd
-#EXTINF:0, Asian Games 2026 3
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Asian Games 2026",Asian Games 2026 3
 https://tglmp02.akamaized.net/out/v1/2f39077458694b06bdfb15ef16f55d45/manifest.mpd
-#EXTINF:0, Asian Games 2026 4
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Asian Games 2026",Asian Games 2026 4
 https://tglmp04.akamaized.net/out/v1/4604623e7ff4462a962275664ccd8ee5/manifest.mpd
-#EXTINF:0, Asian Games 2026 5
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Asian Games 2026",Asian Games 2026 5
 https://tglmp03.akamaized.net/out/v1/926637c1aba44cffa74adc74bf786816/manifest.mpd
-#EXTINF:0, Asian Games 2026 6
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Asian Games 2026",Asian Games 2026 6
 https://tglmp01.akamaized.net/out/v1/d43dbc5da1334ec088ed9eb5796eee7c/manifest.mpd
